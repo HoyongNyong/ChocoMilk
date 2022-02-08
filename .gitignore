@@ -1,0 +1,10 @@
+Debug/
+x64/
+.vs/
+*.exe
+*.lib
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+

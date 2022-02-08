@@ -1,0 +1,4 @@
+#define GLAD_GL_IMPLEMENTATION
+#define STB_IMAGE_IMPLEMENTATION
+
+#include"ChocoMilk.h"

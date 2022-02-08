@@ -1,0 +1,5 @@
+include paths
+	$(SolutionDir)ChocoMilk\Dependencies\includes
+
+lib paths
+	$(SolutionDir)ChocoMilk\Dependencies\libs
